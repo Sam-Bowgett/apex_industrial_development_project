@@ -1,5 +1,5 @@
 -- =========================================================
--- Sprint 4: Pipeline Opportunity Data
+-- Section 4: Pipeline Opportunity Data
 -- Final corrected version (800 rows)
 -- Same bug fixes applied as 04_sales_data.sql (correlated random
 -- selection + LEFT JOIN LATERAL for salesperson state matching).
