@@ -1,5 +1,5 @@
 -- =========================================================
--- Sprint 1: Master Data
+-- Section 1: Master Data
 -- Products, Salespeople, Customer Master, Customers
 -- =========================================================
 
