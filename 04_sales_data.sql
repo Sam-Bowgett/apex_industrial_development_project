@@ -1,5 +1,5 @@
 -- =========================================================
--- Sprint 3: Sales Transaction Data
+-- Section 3: Sales Transaction Data
 -- Final corrected version (10,000 rows)
 --
 -- Bug history (see README for full write-up):
