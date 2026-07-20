@@ -1,7 +1,7 @@
 -- =========================================================
--- Sprint 5: Target Rescale Fix
+-- Section 5: Target Rescale Fix
 --
--- Bug: annual_target values entered in Sprint 1 were set independently
+-- Bug: annual_target values entered in Section 1 were set independently
 -- of the product pricing / volume used later to generate sales data.
 -- Result: every salesperson's actual monthly revenue was ~25-35x their
 -- monthly target, so every "actual vs target" and "underperforming"
