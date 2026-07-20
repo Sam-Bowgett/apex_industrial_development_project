@@ -1,5 +1,5 @@
 -- =========================================================
--- Sprint 1: Database Schema
+-- Section 1: Database Schema
 -- Industrial Equipment Supplier - Sales & Pipeline Analytics
 -- =========================================================
 
@@ -29,7 +29,7 @@ CREATE TABLE salespeople (
     region VARCHAR(50) NOT NULL,
     manager VARCHAR(100) NOT NULL,
     hire_date DATE NOT NULL,
-    annual_target DECIMAL(14,2) NOT NULL CHECK (annual_target >= 0.00) -- widened from (10,2) after Sprint 5 target-scale fix
+    annual_target DECIMAL(14,2) NOT NULL CHECK (annual_target >= 0.00) -- widened from (10,2) after Section 5 target-scale fix
 );
 
 CREATE TABLE sales (
