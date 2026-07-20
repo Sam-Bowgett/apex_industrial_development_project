@@ -1,5 +1,5 @@
 -- =========================================================
--- Sprint 5: SQL Business Analysis Queries
+-- Section 5: SQL Business Analysis Queries
 -- =========================================================
 
 -- 1. Total revenue, total profit, margin %
