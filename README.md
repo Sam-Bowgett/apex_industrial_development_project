@@ -23,7 +23,7 @@ answers those questions with SQL.
 
 - **PostgreSQL** — database and query engine
 - **pgAdmin** — SQL editor / interface
-- **Power BI** — dashboard layer (Sprint 6)
+- **Power BI** — dashboard layer (Section 6)
 
 ## Database Schema
 
@@ -53,7 +53,7 @@ sql/
 ├── 04_sales_data.sql          -- 10,000 sales transactions (corrected version)
 ├── 05_pipeline_data.sql       -- 800 pipeline opportunities (corrected version)
 ├── 06_target_rescale_fix.sql  -- fixes unrealistic target values (see below)
-├── 07_analysis_queries.sql    -- Sprint 5 business analysis queries
+├── 07_analysis_queries.sql    -- Section 5 business analysis queries
 └── 08_views.sql               -- reusable views for Power BI
 ```
 
@@ -147,10 +147,10 @@ were found and resolved — is itself part of the analysis:
 
 ## Roadmap
 
-- [x] Sprint 1 — Master data & schema design
-- [x] Sprint 2 — Reference data (calendar, targets)
-- [x] Sprint 3 — Sales transaction data
-- [x] Sprint 4 — Pipeline opportunity data
-- [x] Sprint 5 — SQL business analysis & views
-- [ ] Sprint 6 — Power BI dashboard
-- [ ] Sprint 7 — Final polish, screenshots, write-up
+- [x] Section 1 — Master data & schema design
+- [x] Section 2 — Reference data (calendar, targets)
+- [x] Section 3 — Sales transaction data
+- [x] Section 4 — Pipeline opportunity data
+- [x] Section 5 — SQL business analysis & views
+- [ ] Section 6 — Power BI dashboard
+- [ ] Section 7 — Final polish, screenshots, write-up
