@@ -1,7 +1,7 @@
 -- =========================================================
--- Sprint 5: Views
+-- Section 5: Views
 -- Pre-aggregated views serving as a clean interface between
--- the database and Power BI (Sprint 6), so the BI layer pulls
+-- the database and Power BI (Section 6), so the BI layer pulls
 -- ready-made tables instead of re-running joins from scratch.
 -- =========================================================
 
